@@ -1,5 +1,5 @@
 ---
-layout: layouts/blog.njk
+layout: layouts/galery.njk
 title: Galery
 tags:
   - nav
